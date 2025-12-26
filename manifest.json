@@ -1,0 +1,10 @@
+{
+  "name": "משימת תל-אביב 3000",
+  "short_name": "ת״א 3000",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#4338ca",
+  "lang": "he",
+  "dir": "rtl"
+}
